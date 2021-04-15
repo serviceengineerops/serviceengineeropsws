@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
-    "image": "images/features/noun_branding_1885335.svg"
+    "title": "Cooperation & Сommitment",
+    "description": "We like our service, our disciplines and we like new opportunities. You are welcome to contact us and ask of how we can be helpful for your project.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Responsibility & Accountability",
+    "description": "We appreciate your business and provide our service transparent and manageable for fit your structure, policies, reporting, etc. Please ask for copy of our Code of Conduct.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "title": "Privacy & Security",
+    "description": "We respect privacy and we take care of security. Please ask for copy of our Security Policy to get familiar with our provisions to work with sensitive data.",
+    "image": "images/features/noun_branding_1885335.svg"
   }
 ]
