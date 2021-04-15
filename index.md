@@ -7,7 +7,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Service Engineer OÜ is EU-company providing field support in Rissia, CIS and Mid-East.
+# Service Engineer OÜ is EU-company providing field support in Russia, CIS and Mid-East countries
 We perform ad-hoc and contract services to EU, USA and Global clients who seek technical support for mechanial, electrical and controls equipment installed obroad.
 Our expertise are 
 - Mechanical and Electrical rotating equipment
