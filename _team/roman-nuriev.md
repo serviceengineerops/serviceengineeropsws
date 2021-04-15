@@ -1,10 +1,12 @@
 ---
-title: 'Susan Shelton'
-date: 2018-12-20T13:45:06+10:00
+title: "Sage Kirk"
+date: 2018-11-19T10:47:58+10:00
 draft: false
-image: 'images/team/cristian-newman-94319-unsplash.jpg'
-jobtitle: 'Developer'
-weight: 5
+image: "images/team/sage-kirk-485982-unsplash.jpg"
+jobtitle: "Accounting Partner"
+linkedinurl: "https://www.linkedin.com/example2"
+promoted: true
+weight: 2
 layout: team
 ---
 

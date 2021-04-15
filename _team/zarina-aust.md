@@ -1,11 +1,12 @@
 ---
-title: 'Robert Johnson'
-date: 2018-12-20T13:44:23+10:00
+title: "Sage Kirk"
+date: 2018-11-19T10:47:58+10:00
 draft: false
-image: 'images/team/vince-fleming-613817-unsplash.jpg'
-jobtitle: 'Developer'
-linkedinurl: "https://www.linkedin.com/"
-weight: 3
+image: "images/team/sage-kirk-485982-unsplash.jpg"
+jobtitle: "Accounting Partner"
+linkedinurl: "https://www.linkedin.com/example2"
+promoted: true
+weight: 2
 layout: team
 ---
 
