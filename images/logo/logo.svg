@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="412" height="64" viewBox="0 0 412 64" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="467" height="64" viewBox="0 0 467 64" xml:space="preserve">
 <desc>Created with Fabric.js 3.6.3</desc>
 <defs>
 </defs>
-<g transform="matrix(1 0 0 1 208.37 32.14)" style=""  >
-		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="56" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-207.87" y="17.59" style="font-family: 'Playfair Display', serif; fill: rgb(0,114,206); ">Service</tspan><tspan x="-25.42" y="17.59" style="font-family: 'Playfair Display', serif; ">Engineer</tspan></text>
+<g transform="matrix(1 0 0 1 373.28 30.66)" style=""  >
+		<text xml:space="preserve" font-family="'Playfair Display', serif" font-size="64" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-375.78" y="20.1" style="fill: rgb(0,114,206); ">Service</tspan><tspan x="-167.26" y="20.1" >Engineer</tspan></text>
 </g>
 </svg>
