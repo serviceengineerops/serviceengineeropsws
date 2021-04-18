@@ -1,5 +1,5 @@
 ---
-title: "Warranty Assessment"
+title: "Warranty Investigation"
 date: 2021-04-08 18:36:26
 featured: true
 weight: 1
