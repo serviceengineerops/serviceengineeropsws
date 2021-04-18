@@ -11,6 +11,7 @@
     color: #0072CE;
     font-size: 1.3rem;
     font-family: $font-family-base;
+    margin-top: 10px;
     font-weight: normal;
     @include media-breakpoint-up(sm) {
       margin: 0;
