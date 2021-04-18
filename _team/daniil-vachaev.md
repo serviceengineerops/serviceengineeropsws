@@ -2,7 +2,7 @@
 title: "Daniil Vachaev"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/daniil-vachaev.jpg"
+image: "images/team/daniil-vachaev.jpeg"
 jobtitle: "PM, Rotating Equipment Engineer"
 linkedinurl: "https://www.linkedin.com/"
 promoted: true
