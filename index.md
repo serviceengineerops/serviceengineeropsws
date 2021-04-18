@@ -7,9 +7,5 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Service Engineer OÜ provide field support within Russia, CIS and Middle-East countries
-We perform ad-hoc and contract services to EU, USA and Global clients who seek technical support for mechanial, electrical and controls equipment installed obroad.
-Our expertise are:
-Mechanical and Electrical Rotating equipment
-Controls and PLC
-Project Management and logistic
+# Service Engineer OÜ provide field support within Russia, CIS, Middle-East
+We perform ad-hoc and contract services to EU, USA and Global clients who seek local operations support with mechanial and electrical industrial equipment.
