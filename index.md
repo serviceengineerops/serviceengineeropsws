@@ -7,5 +7,5 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Service Engineer OÜ provide field support within Russia, CIS, Middle-East
-We perform ad-hoc and contract services to EU, USA and Global clients who seek local operations support with mechanial and electrical industrial equipment.
+# Service Engineer OÜ provide field support within Russia and CIS
+We perform ad-hoc and contract services to EU, USA and Global clients who seek local operations support with mechaniсal and electrical industrial equipment.
