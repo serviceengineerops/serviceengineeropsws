@@ -4,7 +4,7 @@ date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/daniil-vachaev.jpeg"
 jobtitle: "Service Projects Manager"
-linkedinurl: "https://www.linkedin.com/"
+linkedinurl: "https://www.linkedin.com/in/daniil-vachaev/"
 promoted: true
 weight: 1
 layout: team
