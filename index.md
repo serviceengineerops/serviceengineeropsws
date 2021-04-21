@@ -7,4 +7,4 @@ intro_image_hide_on_mobile: true
 ---
 
 # Service Engineer OÜ provide field support within Russia and CIS
-We provide ad-hoc and contract-based services for global clients who seek local technical support for industrial equipment.
+We provide ad-hoc and contract-based services for global clients who require local technical support for industrial equipment.
