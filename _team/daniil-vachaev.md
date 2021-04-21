@@ -3,13 +3,23 @@ title: "Daniil Vachaev"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/daniil-vachaev.jpeg"
-jobtitle: "PM, Rotating Equipment Engineer"
+jobtitle: "Service Projects Manager"
 linkedinurl: "https://www.linkedin.com/"
 promoted: true
 weight: 1
 layout: team
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Service Projects Manager. Graduated Mechanical Engineer and Finance Manager with 15 years experience in Rotating Equipment Projects.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Equipment experience:
+- Centrifugal Pumps;
+- Induction Motors;
+- Synchronous Motors and Generators;
+- Heat exchanges;
+- Isolation and Control Valves.
+
+Certifications:
+- Laser Alignment;
+- Electrician up to 1000V;
+- MMA and TIG welder.

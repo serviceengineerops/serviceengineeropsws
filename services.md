@@ -1,11 +1,11 @@
 ---
 title: Services
 layout: services
-intro_image: "images/illustrations/reading.svg"
+intro_image: ""
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# Technical services and works that address your specific needs
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+We provide local services in Russia and CIS extending from worksite inspection and supervision, support your team working locally till turn-key commissioning, maintenance or training.
