@@ -12,5 +12,5 @@ We access local equipment installation. Operational, maintenance conditons of wo
 - **Contractual risks evaluation:** Client doesn't have supply contract yet but would like to evaluate installation, operation, maintenance risks before get secured into project/contract;
 - **Site readiness inspection:** Client have contract in place but would like to ensure worksite readiness criteria is met, before mobilize personnel or equipment;
 - **Works supervision:** Client would like to have detailed outlook on transport, storage, installation, repair, maintenance activities performing within equipment;
-- **Failure/misperformance insvestigation:** Client goint thru RCFA scrutiny and request more deta from actual installation;
-- **Warraty event handling:** Client looking for obtain more details/confidence on received data for get better accuracy of technical or administrative decisions.
+- **Failure/misperformance investigation:** Client going thru RCFA scrutiny and request more data from actual installation;
+- **Warranty event handling:** Client looking for obtain more details/confidence on received data for get better accuracy of technical or administrative decisions.
