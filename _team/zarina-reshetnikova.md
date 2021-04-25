@@ -6,7 +6,7 @@ image: "images/team/zarina-reshetnikova.jpg"
 jobtitle: "Contracts Administrator"
 linkedinurl: "https://www.linkedin.com/"
 promoted: true
-weight: 2
+weight: 3
 layout: team
 ---
-Contract Manager. Graduate Legal Specialist with 20 years of experience in Sales and Contracts administration.
+Contract Manager. Graduate Legal Specialist with 20 years of experience in Sales and Contracts administration.  
