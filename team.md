@@ -8,4 +8,4 @@ intro_image_hide_on_mobile: false
 
 # Service Engineer's Team
 
-Our team of experienced specialists can support your project at any of it's stage.
+Our team of experienced specialists can support your project at any of its stages.

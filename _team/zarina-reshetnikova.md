@@ -10,4 +10,4 @@ weight: 2
 layout: team
 ---
 
-Contracts Manager. Graduate Legal Specialist with 20 years experience in sales and Contracts administration.
+Contract Manager. Graduate Legal Specialist with 20 years of experience in Sales and Contracts administration.

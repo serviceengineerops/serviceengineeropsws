@@ -3,10 +3,10 @@ title: Contact
 layout: contact
 bodyClass: page-contact
 ---
-Service Engineer OÜ, reg.16201864, Estonia.  
+Service Engineer OÜ, reg.16201864, Estonia.
 
-We are glad to have communication during work time below.  
-For active projects working time is settled individually according to PO conditions.
+Feel free to contact us during the timings given below.
+For active projects, working time is settled individually according to PO conditions.
 
 | Day       | UTC TIME        |
 | --------- | --------------- |

@@ -6,23 +6,25 @@ weight: 3
 layout: service
 ---
 
-Commissioning, Maintenance and Repairs and On-Site Training.
+Commissioning, Maintenance, Repairs and On-Site Training.
 
 ## Commissioning
-Complete mechanical, electrical, instrumentation testing according to Client requirements and provide reporting accordingly. Ensure equipment livened-up and tested according Client's requirements.
+Complete mechanical, electrical and instrumentation testing according to Client requirements and provide reports accordingly. Ensure equipment is livened-up and tested according to Client’s requirements.
+
 ### Use cases
-- **Subcontract of commissioning services:** Commissioning is part of Client's supply contract and he looking for reduce travel costs by outsource commissioning services locally;
+**Subcontract of commissioning services:** Commissioning is part of Client’s supply contract and he wants to reduce travel costs by outsource commissioning services locally.
 
 ## Maintenance and Repairs
-Perfom local maintenance or repairs of industrial equipment on behalf of Client and meeting provided procedures, standards and reporting requirements.
+Perform local maintenance or repairs of industrial equipment on behalf of the Client and meet provided procedures, standards and reporting requirements.
+
 ### Use cases
-- **Subcontract of maintenance routine:** Client has contractual obligation with local enduser to provide specific maintenance as equipment operation develops;
-- **Planned maintenance milestone:** Client has internall reliability procedure requires specific maintenance as equipment operation develops;
-- **Unplanned maintenance event:** Client faced unfortunate shartfall during equipment supply or operation and would look for ad-hoc local repair.
+- **Subcontract of maintenance routine:** Client has a contractual obligation to the local end-user to provide specific maintenance as equipment operation develops.
+- **Planned maintenance milestone:** Client has an internal reliability procedure that requires specific maintenance as equipment operation develops.
+- **Unplanned maintenance event:** Client faces an unfortunate shortfall during equipment supply or operation and wants ad-hoc local repair.
 
 ## On-Site Training
-Handle local on-site training of end-user personnel on behalf of Client, based on provided training documentation and obtain required level of endorsements.
+Handle local, on-site training of end-users on behalf of the Client based on provided training documentation and obtain the required level of endorsements.
 ### Use cases
-- **Subcontract training routine:** Client has contractual obligation with enduser to provide enduser local personnel with on the job training;
-- **Fulfilling quality standard:** Client reliability plan requirement is to ensure enduser personnel received training to specific equipment;
-- **Develop local services:** Client wants to list on-site training as an option within his quotation and would like to understand costs basis.
+- **Subcontract training routine:** Client has a contractual obligation to the end-user to provide local personnel with on-job training.
+- **Fulfill quality standard:** Client’s reliability plan requirement is to ensure end-user personnel receive training for specific equipment.
+- **Develop local services:** Client wants to list on-site training as an option within his quotation and would like to understand the local costs basis.

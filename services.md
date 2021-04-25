@@ -5,6 +5,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Technical services and works that address your specific needs
+# Technical services that address your specific needs.
 
-Service Engineer OÜ team provide local support in Russia and CIS, extending from worksite inspection and supervision, support your team working locally, till turn-key commissioning, maintenance or training.
+Service Engineer OÜ team provides local support within Russia and the CIS. Our services include worksite inspection and supervision, on-ground support for your team, turn-key commissioning, maintenance and training.

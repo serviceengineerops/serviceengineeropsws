@@ -10,11 +10,12 @@ weight: 2
 layout: team
 ---
 
-Automation Engineer. Graduate Software Engineer with 15 years experience in PLC, Controls and Networks.
+Automation Engineer. Graduate Software Engineer with 15 years of experience in PLC, Controls and Networks.
 
 Equipment experience:
 - Refrigerating units;
 - Automated assembly and sorting lines;
 - Siemens PLC;
 - Advantech PLC;
-- Networking.
+- Networks.
+

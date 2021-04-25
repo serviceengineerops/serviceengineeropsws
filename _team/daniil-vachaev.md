@@ -10,13 +10,13 @@ weight: 1
 layout: team
 ---
 
-Service Projects Manager. Graduate Mechanical Engineer and Finance Manager with 15 years experience in Rotating Equipment Projects.
+Service Projects Manager. Graduate Mechanical Engineer and Finance Manager with 15 years of experience in Rotating Equipment Projects.
 
 Equipment experience:
 - Centrifugal Pumps;
 - Induction Motors;
 - Synchronous Motors and Generators;
-- Heat exchanges;
+- Heat Exchanges;
 - Isolation and Control Valves.
 
 Certifications:

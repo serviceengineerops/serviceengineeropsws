@@ -6,11 +6,11 @@ weight: 1
 layout: service
 ---
 
-We access local equipment installation. Operational, maintenance conditons of worksite and make reporting back to Client.
+Observe and inspect of equipment installation, operational and maintenance conditions at worksite and make report back to the Client.
 
 ## Use cases
-- **Contractual risks evaluation:** Client doesn't have supply contract yet but would like to evaluate installation, operation, maintenance risks before get secured into project/contract;
-- **Site readiness inspection:** Client have contract in place but would like to ensure worksite readiness criteria is met, before mobilize personnel or equipment;
-- **Works supervision:** Client would like to have detailed outlook on transport, storage, installation, repair, maintenance activities performing within equipment;
-- **Failure/misperformance investigation:** Client going thru RCFA scrutiny and request more data from actual installation;
-- **Warranty event handling:** Client looking for obtain more details/confidence on received data for get better accuracy of technical or administrative decisions.
+- **Contractual risk evaluation:** Client doesn’t have the supply contract yet but would like to evaluate installation, operation and maintenance risks before securing the project.
+- **Site readiness inspection:** Client has a contract in place but would like to ensure that worksite readiness criteria are met before mobilizing personnel or equipment.
+- **Work supervision:** Client would like to have a detailed outlook on transport, storage, installation, repair and maintenance activities performing within equipment.
+- **Failure/malperformance investigation:** Client is going through RCFA scrutiny and requests more data from actual installation.
+- **Warranty event handling:** Client is looking for more details/confidence on received data in order to make accurate technical or administrative decisions.
