@@ -9,5 +9,4 @@ promoted: true
 weight: 2
 layout: team
 ---
-
 Contract Manager. Graduate Legal Specialist with 20 years of experience in Sales and Contracts administration.
