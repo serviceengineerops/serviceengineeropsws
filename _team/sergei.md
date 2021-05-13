@@ -1,8 +1,8 @@
 ---
-title: "Sergei Loktev"
+title: "Sergei"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/sergei-loktev.jpg"
+image: "images/team/sergei.jpg"
 jobtitle: "Automation Engineer"
 linkedinurl: "https://www.linkedin.com/"
 promoted: true

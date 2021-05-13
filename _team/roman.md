@@ -1,8 +1,8 @@
 ---
-title: "Roman Bulko"
+title: "Roman"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/roman-bulko.jpg"
+image: "images/team/roman.jpg"
 jobtitle: "Commissioning Projects Manager"
 linkedinurl: "https://www.linkedin.com/"
 promoted: true
