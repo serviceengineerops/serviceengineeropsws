@@ -1,13 +1,15 @@
 [
   {
     "title": "Responsibility",
-    "description": "We committed to fair and understandable work approach. Please refer to our Services and Contacts for more details.",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "description": "We committed to fair and understandable work approach. Please refer to our Code of Business Conduct for more details.",
+    "image": "images/features/noun_The Process_1885341.svg",
+    "link": "https://docs.service.engineer/code-of-business-conduct"
   },
   {
     "title": "Accountability",
-    "description": "We appreciate your business and provide our service transparent and manageable. Please ask for copy of our Code of Conduct.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "description": "We appreciate your business and provide our service transparent and manageable. Please start review with our Standard Terms & Conditions",
+    "image": "images/features/noun_3d modeling_1885342.svg",
+    "link": "https://docs.service.engineer/service-agreement-terms-and-conditions"
   },
   {
     "title": "Privacy & Security",
