@@ -5,5 +5,5 @@ layout: page
 bodyClass: page-about
 ---
 
-Service Engineer OÜ is an EU incorporated company. Our aim is to provide global clients with technical support services in Russia and the CIS.
-We are a team of experienced specialists based in Estonia, Russia, Ukraine and Kazakhstan with a solid technical background in Mechanical, Electrical, Automation and Project Management disciplines.
+Service Engineer OÜ is an EU incorporated company. Our aim is to provide global clients with technical support services in Russia, CIS and worldwide.
+We are a team of experienced specialists based in Russia with a solid technical background in Mechanical, Electrical, Automation and Project Management disciplines.
