@@ -3,7 +3,7 @@ title: Contact
 layout: contact
 bodyClass: page-contact
 ---
-Service Engineer OÜ, reg.16201864, Estonia.
+Service Engineer OÜ, reg.16201864, Estonia, EU.
 
 Feel free to contact us during the timings given below.
 For active projects, working time is settled individually according to PO conditions.
