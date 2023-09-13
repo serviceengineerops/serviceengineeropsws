@@ -1,6 +1,6 @@
 ---
 title: "Daniil"
-date: 2018-11-19T10:47:58+10:00
+date: 2022-11-19T10:47:58+10:00
 draft: false
 image: "images/team/daniil.jpeg"
 jobtitle: "Service Projects Manager"
@@ -10,7 +10,7 @@ weight: 1
 layout: team
 ---
 
-Service Projects Manager. Graduate Mechanical Engineer and Finance Manager with 15 years of experience in Rotating Equipment Projects.
+Service Projects Manager. Graduate Mechanical Engineer and Finance Manager with 17 years of experience in Rotating Equipment Projects.
 
 Equipment experience:
 - Centrifugal Pumps;

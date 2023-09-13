@@ -1,6 +1,6 @@
 ---
 title: "Sergei"
-date: 2018-11-19T10:47:58+10:00
+date: 2022-11-19T10:47:58+10:00
 draft: false
 image: "images/team/sergei.jpg"
 jobtitle: "Automation Engineer"
@@ -10,7 +10,7 @@ weight: 2
 layout: team
 ---
 
-Automation Engineer. Graduate Software Engineer with 15 years of experience in PLC, Controls, Instrumentation and Networks.
+Automation Engineer. Graduate Software Engineer with 16 years of experience in PLC, Controls, Instrumentation and Networks.
 
 Equipment experience:
 - Refrigerating units;

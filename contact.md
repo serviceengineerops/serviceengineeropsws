@@ -4,7 +4,10 @@ layout: contact
 bodyClass: page-contact
 ---
 
-Service Engineer OÜ 16201864, Estonia.
+Service Engineer Operations FZ-LLC, reg.0000004044603
+Compass Building, Al Shohada Road
+AL Hamra Industrial Zone-FZ
+Ras Al Khaimah, United Arab Emirates
 
 Feel free to contact us during the timings given below.
 For active projects, working time is settled individually according to PO conditions.
