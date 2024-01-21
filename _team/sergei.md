@@ -10,7 +10,7 @@ weight: 2
 layout: team
 ---
 
-Automation Engineer. Graduate Software Engineer with 16 years of experience in PLC, Controls, Instrumentation and Networks.
+Automation Engineer. Graduate Software Engineer with 18 years of experience in PLC, Controls, Instrumentation and Networks.
 
 Equipment experience:
 - Refrigerating units;

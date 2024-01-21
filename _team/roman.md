@@ -10,7 +10,7 @@ weight: 2
 layout: team
 ---
 
-Commissioning Projects Manager. Graduate Mechanical Engineer and Legal specialist with 14 years of experience in Refrigerating and Process units.
+Commissioning Projects Manager. Graduate Mechanical Engineer and Legal specialist with 16 years of experience in Refrigerating and Process units.
 
 Equipment experience:
 - Refrigerating units;

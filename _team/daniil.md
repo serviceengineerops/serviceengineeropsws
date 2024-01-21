@@ -10,7 +10,7 @@ weight: 1
 layout: team
 ---
 
-Service Projects Manager. Graduate Mechanical Engineer and Finance Manager with 17 years of experience in Rotating Equipment Projects.
+Service Projects Manager. Graduate Mechanical Engineer and Finance Manager with 19 years of experience in Rotating Equipment Projects.
 
 Equipment experience:
 - Centrifugal Pumps;
@@ -23,3 +23,4 @@ Certifications:
 - Laser Alignment;
 - Electrician up to 1000V;
 - MMA and TIG welder.
+- Vibration Analyst Cat II ISO 18436-2
